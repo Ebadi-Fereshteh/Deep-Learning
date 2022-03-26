@@ -1,3 +1,5 @@
+# Compare MLP vs CNN
+
 
  |    Dataset Name           | Accuracy MLP | Accuracy MLP + CNN              |
 | :-----------: | :------: | :-------------: |
