@@ -1,11 +1,14 @@
 ### Artists Face Classification
 
-Classification of the faces of 4 different actors using the Facenet model from the Deep Face library
+* Classification of the faces of 4 different actors using the Facenet model from the Deep Face library
 
-method | Accuracy 
---- | --- 
-MLP | 87.76% 
+    method | Accuracy 
+    --- | --- 
+    MLP | 87.76% 
 
-Data and models are available from this link:
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-https://drive.google.com/drive/folders/1-6iWnbMvyZiAoiPCkN5L5rMfgdyqlf8a?usp=sharing
+* Data and models are available from this link:
+
+    <a id="raw-url" href="https://drive.google.com/drive/folders/1-6iWnbMvyZiAoiPCkN5L5rMfgdyqlf8a?usp=sharing">Download Data and models</a>
+
