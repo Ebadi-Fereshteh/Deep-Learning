@@ -22,7 +22,7 @@
  * Inference
   
   
-     *_Inference.py [--data path] [--model model name]
+     *_Inference.py --data [path] --model [model name]
 
 
  
