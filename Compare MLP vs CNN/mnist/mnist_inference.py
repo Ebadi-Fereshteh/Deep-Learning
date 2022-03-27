@@ -13,7 +13,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 
-parser = argparse.ArgumentParser(description='mnist interference')
+parser = argparse.ArgumentParser(description='mnist inference')
 
 parser.add_argument('--data', type=str, help='data path, Example: /data/img.jpg', default='test_image.jpg')
 parser.add_argument('--model', type=str, help='select the model: mlp | cnn', default='cnn')
