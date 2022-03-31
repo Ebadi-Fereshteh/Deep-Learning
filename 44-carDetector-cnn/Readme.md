@@ -33,10 +33,15 @@ Car Categories:
   
     carDetector_Inference.py --data [path]
  ------------------------------------------------------------------------------------------------------------------
- * Confusion Matrix
+ 
+  * Confusion Matrix
 
     <img src="1.png"/>
+ -------------------------------------------------------------------------------------------------------------------
+ * wandb
  
+   <a id="raw-url" href="https://wandb.ai/fereshteh_ebadi/car%20type%20Detector/runs/3q3d7y29?workspace=user-fereshteh_ebadi">Train model charts</a>
+   
 
  
  
