@@ -50,9 +50,11 @@ Car Categories:
  -------------------------------------------------------------------------------------------------------------------
  * Telegram bot
    You can test the program via Telegram bot!
+   
    Bot : t.me/carDetector_bot
    
    sample:
-    <img src="telegram-bot.jpg"/>
+    
+    <img src="telegram-bot.jpg" height=400/>
  
  
