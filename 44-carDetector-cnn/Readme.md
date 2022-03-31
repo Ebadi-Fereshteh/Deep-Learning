@@ -47,6 +47,12 @@ Car Categories:
    <a id="raw-url" href="https://wandb.ai/fereshteh_ebadi/car_Detector?workspace=user-fereshteh_ebadi">Train model charts</a>
    
 
- 
+ -------------------------------------------------------------------------------------------------------------------
+ * Telegram bot
+   You can test the program via Telegram bot!
+   Bot : t.me/carDetector_bot
+   
+   sample:
+    <img src="telegram-bot.jpg"/>
  
  
