@@ -15,6 +15,10 @@
 Pinterest Crawler is used for data collected in 4 categories of cars.
 https://github.com/SajjadAemmi/Pinterest-Crawler
 
+ data are available from this link:
+
+   <a id="raw-url" href="https://drive.google.com/drive/folders/1Sx_qltTBGVHJ3F5pfbCesCdBoeQ_zY4Z?usp=sharing">Download data</a>
+
 Car Categories:
 1. "Hatchback 🚙"
 2. "Lorry 🚛"
