@@ -53,6 +53,6 @@ Categories:
    
    sample:
     
-    <img src="telegram-bot.jpg" height=400/>
+    <img src="telegram-bot.jpeg" height=800/>
  
  
