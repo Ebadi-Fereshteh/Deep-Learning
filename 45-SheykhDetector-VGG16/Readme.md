@@ -13,7 +13,8 @@
  ----------------------------------------------------------------------------------------------------------------
  * data
 
-To access the data, contact Mr. SajjadAemmi
+To access the data, contact Mr. SajjadAemmi :
+
 https://github.com/SajjadAemmi
 
 Categories:
@@ -41,7 +42,7 @@ Categories:
  -------------------------------------------------------------------------------------------------------------------
  * wandb
  
-   <a id="raw-url" https://wandb.ai/fereshteh_ebadi/SheykhDetector/runs/1c47lthc?workspace=user-fereshteh_ebadi">Train model charts</a>
+   <a id="raw-url" href="https://wandb.ai/fereshteh_ebadi/SheykhDetector/runs/1c47lthc?workspace=user-fereshteh_ebadi">Train model charts</a>
    
 
  -------------------------------------------------------------------------------------------------------------------
