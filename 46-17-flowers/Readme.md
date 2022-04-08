@@ -1,3 +1,5 @@
+# Flowers classification 
+
 * Accuracy
 
 <table border="0 px">
@@ -62,6 +64,7 @@
 </tbody>
 </table>
 
+_________________________________________________________________________________________________________________
 * 17 flowers dataset are available from this link: 
 
 
@@ -72,11 +75,11 @@
 * models are available from this link:
 
 
-     <a id="raw-url" https://drive.google.com/drive/folders/1-raii-CF07Vzw4IJOjDLdvMqiUOE2is0?usp=sharing">Download models</a>
+<a id="raw-url" https://drive.google.com/drive/folders/1-raii-CF07Vzw4IJOjDLdvMqiUOE2is0?usp=sharing">Download models</a>
     
  -----------------------------------------------------------------------------------------------------------------
  * Inference
   
   
-     Inference.py --data [path] --model [model name]
+     inference.py --data [path] --model [model name]
 
