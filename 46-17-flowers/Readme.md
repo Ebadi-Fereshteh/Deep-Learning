@@ -31,13 +31,13 @@
  <td align="left">73.90%</td>
 </tr>
 <tr>
- <td align="left">fashion mnist</td>
- <td align="center">88.06%</td>
- <td align="center">89.35%</td>
- <td align="left">95.64%</td>
- <td align="center">98.10%</td>
- <td align="center">95.64%</td>
- <td align="left">98.10%</td>
+ <td align="left">MobileNetV2</td>
+ <td align="center">0.1580</td>
+ <td align="center">98.19%</td>
+ <td align="left">0.2763</td>
+ <td align="center">93.63%</td>
+ <td align="center">0.5725</td>
+ <td align="left">81.62%</td>
 </tr>
 <tr>
  <td align="left">cifar10</td>
