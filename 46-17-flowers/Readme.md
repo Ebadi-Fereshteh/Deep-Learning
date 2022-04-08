@@ -62,8 +62,21 @@
 </tbody>
 </table>
 
-* Data
-https://www.kaggle.com/datasets/saidakbarp/17-category-flowers
+* 17 flowers dataset are available from this link: 
 
-* Models
+
+<a id="raw-url" href="https://www.kaggle.com/datasets/saidakbarp/17-category-flowers">Download Dataset</a>
+
+-----------------------------------------------------------------------------------------------------------------
+
+* models are available from this link:
+
+
+     <a id="raw-url" https://drive.google.com/drive/folders/1-raii-CF07Vzw4IJOjDLdvMqiUOE2is0?usp=sharing">Download models</a>
+    
+ -----------------------------------------------------------------------------------------------------------------
+ * Inference
+  
+  
+     Inference.py --data [path] --model [model name]
 
