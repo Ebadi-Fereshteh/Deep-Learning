@@ -49,13 +49,13 @@
  <td align="left">83.09%</td>
 </tr>
 <tr>
- <td align="left">cifar100</td>
- <td align="center">15.96%</td>
- <td align="center">35.04%</td>
- <td align="left">95.64%</td>
- <td align="center">98.10%</td>
- <td align="center">95.64%</td>
- <td align="left">98.10%</td>
+ <td align="left">Xception</td>
+ <td align="center">0.1331 </td>
+ <td align="center">97.96 %</td>
+ <td align="left">0.3179</td>
+ <td align="center">88.73%</td>
+ <td align="center">0.5829</td>
+ <td align="left">81.62%</td>
  </tr>
 </tbody>
 </table>
