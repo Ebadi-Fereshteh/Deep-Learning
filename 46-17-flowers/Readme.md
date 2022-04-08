@@ -1,3 +1,5 @@
+* Accuracy
+
 <table border="0 px">
  <thead>
   <tr>
@@ -59,4 +61,9 @@
  </tr>
 </tbody>
 </table>
+
+* Data
+https://www.kaggle.com/datasets/saidakbarp/17-category-flowers
+
+* Models
 
