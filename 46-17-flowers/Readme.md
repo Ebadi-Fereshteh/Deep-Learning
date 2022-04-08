@@ -40,13 +40,13 @@
  <td align="left">81.62%</td>
 </tr>
 <tr>
- <td align="left">cifar10</td>
- <td align="center">47.35%</td>
- <td align="center">69.29%</td>
- <td align="left">95.64%</td>
- <td align="center">98.10%</td>
- <td align="center">95.64%</td>
- <td align="left">98.10%</td>
+ <td align="left">ResNet50V2</td>
+ <td align="center">0.1275</td>
+ <td align="center">98.30%</td>
+ <td align="left">0.2868</td>
+ <td align="center">94.12%</td>
+ <td align="center">0.5153%</td>
+ <td align="left">83.09%</td>
 </tr>
 <tr>
  <td align="left">cifar100</td>
