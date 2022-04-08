@@ -1,16 +1,62 @@
+<table border="0 px">
+ <thead>
+  <tr>
+   <th align="left"></th>
+   
+   <th colspan="2" align="center">Train</th>
+   <th colspan="2" align="center">Validation</th>   
+   <th colspan="2" align="center">Test</th>   
+  </tr>
+ </thead>
+ <thead>
+  <tr>
+   <th align="left">Model</th>
+   <th align="center">Loss</th>
+   <th align="center">Accuracy</th>
+   <th align="left">Loss</th>
+   <th align="center">Accuracy</th>
+   <th align="center">Loss</th>
+   <th align="left">Accuracy</th>
+  </tr>
+ </thead>
+ 
+ <tbody>
+ <tr>
+ <td align="left">VGG16</td>
+ <td align="center">0.0073 </td>
+ <td align="center">99.89%</td>
+ <td align="left">0.3853 </td>
+ <td align="center">90.20%</td>
+ <td align="center">1.0339</td>
+ <td align="left">73.90%</td>
+</tr>
+<tr>
+ <td align="left">fashion mnist</td>
+ <td align="center">88.06%</td>
+ <td align="center">89.35%</td>
+ <td align="left">95.64%</td>
+ <td align="center">98.10%</td>
+ <td align="center">95.64%</td>
+ <td align="left">98.10%</td>
+</tr>
+<tr>
+ <td align="left">cifar10</td>
+ <td align="center">47.35%</td>
+ <td align="center">69.29%</td>
+ <td align="left">95.64%</td>
+ <td align="center">98.10%</td>
+ <td align="center">95.64%</td>
+ <td align="left">98.10%</td>
+</tr>
+<tr>
+ <td align="left">cifar100</td>
+ <td align="center">15.96%</td>
+ <td align="center">35.04%</td>
+ <td align="left">95.64%</td>
+ <td align="center">98.10%</td>
+ <td align="center">95.64%</td>
+ <td align="left">98.10%</td>
+ </tr>
+</tbody>
+</table>
 
-
-
-|    Model           | Train |              | Validation |              | Test |              |
-| :----------- | :------: | :-------------: | :----------- | :------: | :-------------: |:----------- |
-|               | Loss | Accuracy     | Loss | Accuracy     | Loss | Accuracy     |
- VGG16            | 95.64%   | 98.10% | 95.64%   | 98.10% | 95.64%   | 98.10%
- fashion mnist    | 88.06%   | 89.35% | 95.64%   | 98.10% | 95.64%   | 98.10%
- cifar10          | 47.35%   | 69.29% | 95.64%   | 98.10% | 95.64%   | 98.10%
- cifar100         | 15.96%   | 35.04% | 95.64%   | 98.10% | 95.64%   | 98.10%
-
-
-.markdown-body table th, .markdown-body table td {
-    padding: 6px 13px;
-    border: 0px solid var(--color-border-default);
-}
