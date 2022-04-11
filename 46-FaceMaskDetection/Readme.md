@@ -11,12 +11,10 @@
  Test          | 0.0260    | 98.99%
  
  ----------------------------------------------------------------------------------------------------------------
- * data
-
-dataset are available from this link:
-
-    
-    <a id="raw-url" href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset">Download Dataset</a>
+ * dataset are available from this link: 
+   
+   
+   <a id="raw-url" href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset">Download Dataset</a>
 
  ----------------------------------------------------------------------------------------------------------------
  * model are available from this link:
