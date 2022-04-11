@@ -38,9 +38,9 @@ class FaceMask(QMainWindow):
             pred = np.argmax(result)
             print(pred)
             if pred == 0:
-                self.ui.lb_notMask.setVisible(True)
-            elif pred ==1:
                 self.ui.lb_mask.setVisible(True)
+            elif pred ==1:
+                self.ui.lb_notMask.setVisible(True)
 
             RGB_frame = cv2.resize(frame, (600, 500))
             image = QImage(RGB_frame, RGB_frame.shape[1], RGB_frame.shape[0], QImage.Format_RGB888)
