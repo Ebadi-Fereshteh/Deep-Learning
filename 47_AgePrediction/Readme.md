@@ -21,7 +21,7 @@
  * model are available from this link:
 
 
-     <a id="raw-url" href="https://drive.google.com/file/d/1-Z7njUJgVKscKybfBdl9cNTItAUn05OV/view?usp=sharing">Download model</a>
+     <a id="raw-url" href="https://drive.google.com/drive/folders/1hX9yl1O3_gGLSKiV3RMslCXlfbcjOsJI?usp=sharing">Download model</a>
     
  -----------------------------------------------------------------------------------------------------------------
  * Inference
@@ -30,13 +30,4 @@
     Run Inference.py
  ------------------------------------------------------------------------------------------------------------------
  
-  * Confusion Matrix
-
-    <img src="confusion-mtx.png"/>
- -------------------------------------------------------------------------------------------------------------------
- * wandb
  
-   <a id="raw-url" href="https://wandb.ai/fereshteh_ebadi/Face_Mask?workspace=user-fereshteh_ebadi">Train model charts</a>
-   
-
- -------------------------------------------------------------------------------------------------------------------
