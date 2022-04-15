@@ -15,7 +15,7 @@
  * dataset are available from this link: 
    
    
-   <a id="raw-url" href="https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset">Download Dataset</a>
+   <a id="raw-url" href="https://www.kaggle.com/jangedoo/utkface-new">Download Dataset</a>
 
  ----------------------------------------------------------------------------------------------------------------
  * model are available from this link:
